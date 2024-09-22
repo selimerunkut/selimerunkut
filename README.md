@@ -8,5 +8,5 @@
 - 👯 I’m looking to collaborate on social tokens, nft technologies, decentralized identity
 - 🤔 I’m looking for help with backend/frontend/serverless
 - 💬 Ask me about [anything](https://github.com/selimerunkut/selimerunkut/issues)
-- 📫 How to reach me: [cryptoson](https://cryptoson.tech/)
+- 📫 How to reach me: se@cypherx.tech
 
