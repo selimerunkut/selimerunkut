@@ -9,6 +9,4 @@
 - 🤔 I’m looking for help with backend/frontend/serverless
 - 💬 Ask me about [anything](https://github.com/selimerunkut/selimerunkut/issues)
 - 📫 How to reach me: [cryptoson](https://cryptoson.tech/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: need more sleep
 
